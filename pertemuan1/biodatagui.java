@@ -8,10 +8,10 @@ public class biodatagui {
         JFrame frame = new JFrame("Biodata Mahasiswa");
 
         // Membuat label nama
-        JLabel namaLabel = new JLabel("Nama : Agatha Kinta Siva");
+        JLabel namaLabel = new JLabel("Nama : Muhamad Ropik");
 
         // Membuat label NIM
-        JLabel nimLabel = new JLabel("NIM : 221011401993");
+        JLabel nimLabel = new JLabel("NIM : 231011403029");
 
         JLabel classLabel = new JLabel("Kelas : 06TPLE016");
 
